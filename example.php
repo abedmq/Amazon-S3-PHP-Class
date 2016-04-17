@@ -7,7 +7,7 @@
 */
 
 if (!class_exists('S3')) require_once 'S3.php';
-
+wewr
 // AWS access info
  define('awsAccessKey', 'AKIAJC2JCHWR7N4L3STA');
 define('awsSecretKey', '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');
